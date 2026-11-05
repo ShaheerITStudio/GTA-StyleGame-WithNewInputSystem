@@ -1,2 +1,5 @@
-# GTA-StyleGame-WithNewInputSystem
-My 3D Open World Game
+# GTA Style Game
+
+![GTA Style Game](Assets/Images/WebsiteProjectGTAStyleGame.png)
+
+Coming soon...
